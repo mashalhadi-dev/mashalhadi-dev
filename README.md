@@ -16,12 +16,14 @@
       <ul>
         <li>💻 <b>Full Stack + AI Engineer</b> designing scalable web applications and intelligent backend systems.</li>
         <li>🔬 <b>ML & Data Science Student & Researcher</b> exploring Deep Learning, NLP, and advanced data models.</li>
-        <li>☁️ Experienced in cloud infrastructure, databases, and automated pipelines <b>(AWS, Oracle, CI/CD, Redis)</b>.</li>
-        <li>📫 Reach out to me: <b>your.email@example.com</b></li>
+        <li>☁️ Experienced in cloud infrastructure, databases, and automated pipelines <b>(AWS, Oracle, CI/CD, Redis, Linux)</b>.</li>
+        <li>🌐 Check out my portfolio: <a href="https://myportfolio-pied-omega-16.vercel.app/" target="_blank"><b>My Portfolio</b></a></li>
+        <li>📫 Reach out to me: <a href="mailto:psychotechbuilder@gmail.com"><b>psychotechbuilder@gmail.com</b></a></li>
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/Software%20Developer/Software%20Developer.gif" width="260px" alt="Coding GIF">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="80" align="left" />
+      <img src="https://media.giphy.com/media/qgQUGGAC3P4FmRySHW/giphy.gif" width="220px" alt="Hacker Coding GIF">
     </td>
   </tr>
 </table>
@@ -90,6 +92,7 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mashalhadi-dev/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://myportfolio-pied-omega-16.vercel.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:psychotechbuilder@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
