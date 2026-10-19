@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Mashal+Hadi;Full+Stack+%2B+AI+Engineer;ML+%26+Data+Science+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Mashal+Hadi;Full+Stack+%2B+AI+Engineer;ML+%26+Data+Science+Researcher;Google+AI+Certified+Professional" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=36BCF7&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Google%20AI%20Certified-Professional-blue?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Certified" />
 </p>
 
 ---
@@ -14,17 +14,25 @@
   <tr>
     <td width="60%">
       <ul>
-        <li>💻 <b>Full Stack + AI Engineer</b> building scalable web apps & intelligent models.</li>
-        <li>🔬 <b>ML & Data Science Student & Researcher</b> exploring Deep Learning & NLP.</li>
-        <li>🧠 Passionate about bridging the gap between <b>Modern Web Frameworks & AI Solutions</b>.</li>
-        <li>📫 How to reach me: <b>your.email@example.com</b></li>
+        <li>💻 <b>Full Stack + AI Engineer</b> designing scalable web applications and intelligent backend systems.</li>
+        <li>🔬 <b>ML & Data Science Student & Researcher</b> exploring Deep Learning, NLP, and advanced data models.</li>
+        <li>☁️ Experienced in cloud infrastructure, databases, and automated pipelines <b>(AWS, Oracle, CI/CD, Redis)</b>.</li>
+        <li>📫 Reach out to me: <b>your.email@example.com</b></li>
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUGGAC3P4FmRySHW/giphy.gif" width="220px" alt="Coding GIF">
+      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/Software%20Developer/Software%20Developer.gif" width="260px" alt="Coding GIF">
     </td>
   </tr>
 </table>
+
+---
+
+### 🏆 Certifications & Achievements
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20AI-Certified%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack-AI%20Specialist-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white" />
+</p>
 
 ---
 
@@ -38,14 +46,50 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
-#### 💻 Full Stack Development
+#### 💻 Full Stack, Backend & Databases
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+#### ☁️ Cloud, DevOps, CI/CD & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=mashalhadi-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=mashalhadi-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashalhadi-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
