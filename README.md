@@ -22,8 +22,8 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="80" align="left" />
-      <img src="https://media.giphy.com/media/qgQUGGAC3P4FmRySHW/giphy.gif" width="220px" alt="Hacker Coding GIF">
+      <img src="[https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png](https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUybXNldXB0dGZocGhsMjd5anQxbWh6MTJvMjhzeTNta2kyZGlycXkwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif)" width="80" align="left" />
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyazBnbzl4N2p3bzNxaWFycTE0YWhyM2FmbTZ4Ym5odWtuangxcmk1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jY0nfdu6tU9bzey8kB/giphy.gif" width="220px" alt="Hacker Coding GIF">
     </td>
   </tr>
 </table>
