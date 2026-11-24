@@ -76,18 +76,7 @@
 
 ---
 
-### 📊 GitHub Analytics
 
-<p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=mashalhadi-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=mashalhadi-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashalhadi-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
-
----
 
 ### 🌐 Connect With Me
 
